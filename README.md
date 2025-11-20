@@ -46,7 +46,7 @@ project lets you pick, move, and drop disks simply by performing a
 
 2. Install dependencies : pip install opencv-python mediapipe
 
-3. Run the game :python main.py
+3. Run the game : python main.py
 ```
 
 ------------------------------------------------------------------------
