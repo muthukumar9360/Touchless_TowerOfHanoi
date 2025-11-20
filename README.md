@@ -95,3 +95,5 @@ following these rules:
 
 When all disks are correctly placed on the destination rod, a **YOU
 WIN!** message appears.
+
+---
